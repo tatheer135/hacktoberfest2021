@@ -59,7 +59,7 @@ I have created a simple page to display all contributors list [here](https://hct
 **Examples of unacceptable behavior by participants include:**
 - Trolling, insulting/derogatory comments, and personal or political attacks
 - Public or private harassment
-- Publishing others' private information, such as a physical or electronic address, without explicit permission
+- Publishing others private information, such as a physical or electronic address, without explicit permission
 ---
 
 ## 🎯Objectives
